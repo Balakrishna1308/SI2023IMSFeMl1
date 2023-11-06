@@ -1,0 +1,8 @@
+1. Agile process.
+2. Best practices.
+3. Git and GitHub.
+4. Naming conventions.
+5. Project structure.
+6. Project documentation.
+7. Wireframe design.
+8. Technology stack.
