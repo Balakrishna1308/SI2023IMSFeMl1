@@ -6,3 +6,4 @@
 6. Project documentation.
 7. Wireframe design.
 8. Technology stack.
+9. HTML and CSS form validations.
