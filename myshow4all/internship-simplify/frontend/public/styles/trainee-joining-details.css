@@ -9,9 +9,6 @@
         }
 
 
-
-
-
         /* V */
         .container {
             max-width: 400px;
@@ -23,17 +20,11 @@
         }
 
 
-
-
-
-
         /* II */
         h2 {
             text-align: center;
         }
-
-
-        
+      
 
 
         /* III */
@@ -43,15 +34,11 @@
         }
 
 
-
-
         /* VI */
         /* Style form labels */
         label {
             margin-bottom: 5px;
         }
-
-
 
 
         /* VII */
@@ -65,7 +52,6 @@
             border: 1px solid #ccc;
             border-radius: 5px;
         }
-
 
 
 
@@ -85,8 +71,6 @@
 
 
 
-        
-
         /* IX */
         /* Add hover effect for the submit button */
         button[type="submit"]:hover {
@@ -94,7 +78,6 @@
             transform: scale(1.05);
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
         }
-
 
 
 
