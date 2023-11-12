@@ -1,0 +1,2 @@
+resources: This directory is for storing miscellaneous resources that are helpful for understanding or developing the project, such as glossary, style guide, or FAQs.
+

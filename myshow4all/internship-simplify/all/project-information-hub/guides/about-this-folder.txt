@@ -1,0 +1,1 @@
+This directory is specifically for storing step-by-step instructions or tutorials on how to use or develop the project.

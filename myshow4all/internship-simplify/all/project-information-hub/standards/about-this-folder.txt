@@ -1,0 +1,1 @@
+This directory is for storing documents that define coding standards, naming conventions, and other technical specifications for the project.

@@ -1,0 +1,1 @@
+This folder serves as a central location for accessing all relevant information about the project.
