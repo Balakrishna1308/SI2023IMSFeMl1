@@ -1,1 +1,0 @@
-This is a general-purpose directory for storing this project documentation, including guidelines, policies, and best practices.

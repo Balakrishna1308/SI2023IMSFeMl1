@@ -1,1 +1,0 @@
-This folder serves as a dedicated directory for storing all the images related to the project. 

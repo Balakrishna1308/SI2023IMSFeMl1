@@ -1,1 +1,0 @@
-project-visuals: This is a folder for storing project visuals, such as diagrams, charts, and screenshots, etc.
