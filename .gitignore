@@ -1,2 +1,5 @@
-# Ignore the "rem-all" directory
-rem-all/
+# Ignore the following directories and or files
+module-1/
+module-2/
+
+
